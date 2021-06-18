@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/Project/liweiguo/test/EulerResolve/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I../include  -g   -o CMakeFiles/run.dir/main.cpp.o -c /Project/liweiguo/test/EulerResolve/main.cpp",
+  "file": "/Project/liweiguo/test/EulerResolve/main.cpp"
+},
+
+{
+  "directory": "/Project/liweiguo/test/EulerResolve/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I../include  -g   -o CMakeFiles/test.dir/src/ReadFile.cpp.o -c /Project/liweiguo/test/EulerResolve/src/ReadFile.cpp",
+  "file": "/Project/liweiguo/test/EulerResolve/src/ReadFile.cpp"
+},
+
+{
+  "directory": "/Project/liweiguo/test/EulerResolve/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I../include  -g   -o CMakeFiles/test.dir/src/Graph.cpp.o -c /Project/liweiguo/test/EulerResolve/src/Graph.cpp",
+  "file": "/Project/liweiguo/test/EulerResolve/src/Graph.cpp"
+},
+
+{
+  "directory": "/Project/liweiguo/test/EulerResolve/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I../include  -g   -o CMakeFiles/test.dir/src/Person.cpp.o -c /Project/liweiguo/test/EulerResolve/src/Person.cpp",
+  "file": "/Project/liweiguo/test/EulerResolve/src/Person.cpp"
+},
+
+{
+  "directory": "/Project/liweiguo/test/EulerResolve/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I../include  -g   -o CMakeFiles/test.dir/src/EulerResolve.cpp.o -c /Project/liweiguo/test/EulerResolve/src/EulerResolve.cpp",
+  "file": "/Project/liweiguo/test/EulerResolve/src/EulerResolve.cpp"
+}
+]

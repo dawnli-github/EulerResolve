@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtest.a  CMakeFiles/test.dir/src/ReadFile.cpp.o CMakeFiles/test.dir/src/Graph.cpp.o CMakeFiles/test.dir/src/Person.cpp.o CMakeFiles/test.dir/src/EulerResolve.cpp.o
+/usr/bin/ranlib libtest.a
